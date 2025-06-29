@@ -1,0 +1,9 @@
+notepad .gitignore
+# Folder dan file yang tidak mau diupload
+data_negatif/
+data_webcam/
+aptos2019-blindness-detection/
+.venv/
+__pycache__/
+*.cs
+
